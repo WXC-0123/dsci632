@@ -3,7 +3,7 @@
 Machine learning project that predicts the success of bank marketing campaign
 
 Atheer Albarqi, asa387@drexel.edu  
-[Emily Wang](mailto:ew552@drexel.com), ew552@drexel.edu  
+[Emily Wang](https://github.com/WXC-0123), ew552@drexel.edu  
 Xi Chen, xc98@drexel.edu  
 
 College of Computing and Informatics  
